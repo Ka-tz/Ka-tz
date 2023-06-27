@@ -28,9 +28,9 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 
-### :cat: What i want to know : 
-I would like to persue a career in CyberSecurity :woman_technologist:
-In doing so throughout these lessons i wish to gain knowledge on..
+### :cat: What I want to know : 
+I would like to pursue a career in CyberSecurity :woman_technologist:
+In doing so throughout these lessons I wish to gain knowledge on...
 
 
 Networking and System Administration :ghost:
@@ -43,7 +43,11 @@ Basic Understanding of coding languages (ex: python, HTML, JavaScript)  :smiley_
 
 Blockchain Security  :anger:
 
-Basically preapring myself so i can get certified at the young age of 18. :woman_student:
+Basically preparing myself so I can get certified at the young age of 18. :woman_student:
+
+Contact Info
+Email: karen.bernard200@gmail.com
+Phone: (347)574-8657
 
 </a>
   <a href="https://youtu.be/V-_O7nl0Ii0">
